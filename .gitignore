@@ -141,4 +141,4 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 #exclude everything form node_modules
-[Aa]ssets/[Ss]ocketMovementExample/[Ss]erver/[Nn]ode_modules/
+/[Aa]ssets/[Ss]ocketMovementExample/[Ss]erver/[Nn]ode_modules/*
